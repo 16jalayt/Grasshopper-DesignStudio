@@ -1,5 +1,7 @@
 # Grasshopper DesignStudio
 
+Please see [my blog](https://16jalayt.github.io/blog/cricut-designStudio) for additional information about keeping early Cricut machines running.
+
 This is a decompilation and improvement of Provo Craft's Cricut DesignStudio. All rights and copyright goes to them. However, they have not supported the software since at least 2013. The first and second generation Cricut machines are no longer supported and no longer work with any supported software. This repo is an attempt to keep older Cricut machines working and out of landfills.
 
 The software has been decompiled with [ILSpy](https://github.com/icsharpcode/ILSpy) and rebuilt with newer versions of .net. The original program was .net 2, and the versions provided are .net 4.7.1 and 4.8. Choose 4.7 for Windows 7 and 4.8 for Windows 10 and 11.
